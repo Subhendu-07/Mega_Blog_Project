@@ -47,12 +47,12 @@ Mega Blog is a full-fledged blog application built with React.js that offers the
 
 ## Deployment & Repository
 
-- **Live Demo:** https://mega-blog-nine-gamma.vercel.app
-- **Repository:** https://github.com/rajanjha9235/mega-blog
+- **Live Demo:** https://subhendu-megablog.vercel.app
+- **Repository:** https://github.com/Subhendu-07/Mega_Blog_Project
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/rajanjha9235/mega-blog.git`
+1. Clone the repository: `git clone https://github.com/Subhendu-07/Mega_Blog_Project`
 
 2. Navigate to the project directory: `cd mega-blog`
 
@@ -80,8 +80,7 @@ Mega Blog is a full-fledged blog application built with React.js that offers the
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-### License
-This project is licensed under the Apache License - see the [LICENSE](https://github.com/rajanjha9235/mega-blog/blob/main/LICENSE) file for details.
+
 
 ### Additional Notes
 
